@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "string": "c",
+        "array": "c",
+        "bitset": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "ranges": "c",
+        "span": "c",
+        "regex": "c",
+        "utility": "c",
+        "FUNCTION_PASSING.C": "cpp"
+    }
+}
